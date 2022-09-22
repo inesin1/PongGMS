@@ -30,7 +30,7 @@ if (x >= window_get_width() - sprite_get_width(s_Ball) / 2) {	// С правой
 	canMove = false;								// Запрещаем двигаться
 	alarm[0] = 60;									// Ставим будильник на секунду
 	
-		o_Game.ScoreLeft = o_Game.ScoreLeft + 1;		// Прибавляем очки правому игроку
+	o_Game.ScoreLeft = o_Game.ScoreLeft + 1;		// Прибавляем очки правому игроку
 }
 
 // С ракетками

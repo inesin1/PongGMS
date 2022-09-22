@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"o_Bat","path":"objects/o_Bat/o_Bat.yy",},"order":0,},
     {"id":{"name":"o_Ball","path":"objects/o_Ball/o_Ball.yy",},"order":1,},
+    {"id":{"name":"f_Arial","path":"fonts/f_Arial/f_Arial.yy",},"order":0,},
     {"id":{"name":"s_Bat","path":"sprites/s_Bat/s_Bat.yy",},"order":0,},
     {"id":{"name":"s_Ball","path":"sprites/s_Ball/s_Ball.yy",},"order":1,},
     {"id":{"name":"o_Game","path":"objects/o_Game/o_Game.yy",},"order":2,},
